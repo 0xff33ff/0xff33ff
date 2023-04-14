@@ -6,6 +6,6 @@ I make software.
 
 You can download and use for free.
 
-So...
+So... Donate me via this link:
 
-# Donate Me
+https://sfrfrlnc.pages.dev/donate.html
