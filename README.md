@@ -9,7 +9,7 @@ Ini adalah akun GitHub di mana website SFRFRLNC di-host.
 - Website Utama:
 	- https://rebrand.ly/sfr-website
 - YouTube Channel:
-	- https://rebrand.ly/sfr-YouTube
+	- https://rebrand.ly/sfr-youtube
 	
 
 
