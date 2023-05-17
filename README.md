@@ -1,11 +1,15 @@
-### Hi there 👋
+# Selamat Datang di Akun GitHub SFRFRLNC!
 
-This is my GitHub account.
+## Berkenalan
 
-I make software.
+Ini adalah akun GitHub di mana website SFRFRLNC di-host.
 
-You can download and use for free.
+## Link-Link Penting
 
-So... Donate me via this link:
+- Website Utama:
+	- https://rebrand.ly/sfr-website
+- YouTube Channel:
+	- https://rebrand.ly/sfr-YouTube
+	
 
-https://sfrfrlnc.pages.dev/donate.html
+
